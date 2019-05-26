@@ -1,0 +1,16 @@
+1.     Go to Amazon.com
+2.     Search for Amazon Echo
+3.     Count the number of the results the search gives you
+4.     Select Amazon Echo - Black
+5.     Check what is the stock date
+
+1.     Go To Amazon.co.uk
+2.     Search for Amazon Echo
+3.     Count the number of the results the search gives you
+4.     Select Amazon Echo - Black
+5.     Check what is the stock date
+
+1.     Send an email that contains the following:
+2.     Comparison of the prices of the two converted to NIS
+3.     Number of search results for each site
+4.     The prices in USD and in NIS with recommendation on the cheaper one and when it will be in stock
